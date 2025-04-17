@@ -2,6 +2,19 @@ Tic Tac Toe Game
 
 A fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project lets two players take turns to mark O and X on a 3x3 grid, checks for winning combinations, and allows restarting the game easily.
 
+## Live Demo
+
+Check out the game here 👉 [Play Now](https://shubhigupta24.github.io/TIC-TAC-TOE/)
+
+---
+
+##  How to Play
+
+1. Open the game in your browser.
+2. Two players take turns (O and X).
+3. First to align 3 symbols in a row wins.
+4. Click **Reset** or **New Game** to play again.
+
 Features
 
 1. Classic 2-player Tic Tac Toe gameplay
@@ -22,20 +35,3 @@ CSS – styles and layout
 
 JavaScript – game logic and interactivity
 
-How to Run the Project
-
-1. Clone the repository or download the files:
-   git clone https://github.com/Shubhigupta24/TIC-TAC-TOE.git
-
-2. Navigate to the project folder:
-   cd TIC-TAC-TOE
-
-3. Open index.html in your browser to play the game!
-
-Folder Structure
-
-TIC-TAC-TOE/
-│
-├── index.html         # Main HTML file
-├── my.css             # Stylesheet
-└── first.js           # JavaScript logic
